@@ -5,7 +5,7 @@ Vielen Dank, dass Sie in Betracht ziehen, zu diesem Projekt beizutragen! Hier si
 ## Schritte zum Beitrag
 
 1. Forken Sie das Repository.
-2. Erstellen Sie einen neuen Branch (`git checkout -b feature/NeuesFeature`).
+2. Erstellen Sie einen neuen Branch (z.B. `git checkout -b feature/NeuesFeature`).
 3. Fügen Sie Ihre Änderungen hinzu (`git add .`).
 4. Committen Sie Ihre Änderungen (`git commit -m 'Fügen Sie ein neues Feature hinzu'`).
 5. Pushen Sie zu Ihrem Branch (`git push origin feature/NeuesFeature`).
