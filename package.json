@@ -1,5 +1,5 @@
 {
-  "name": "augmented-reality-lernplattform",
+  "name": "augmented-reality-lernplatform",
   "version": "1.0.0",
   "description": "Eine Lernplattform für Augmented Reality",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "three": "^0.134.0",
     "aframe": "^1.2.0"
   },
-  "author": "Neuer Name Updated",
+  "author": "Updated Author Name",
   "license": "MIT"
 }
