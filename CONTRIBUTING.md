@@ -14,3 +14,7 @@ Vielen Dank, dass Sie in Betracht ziehen, zu diesem Projekt beizutragen! Hier si
 ## Verhaltenskodex
 
 Bitte lesen Sie unseren Verhaltenskodex, bevor Sie beitragen.
+
+## Coding Standards
+
+Achten Sie darauf, dass Ihr Code den vereinbarten Coding-Standards entspricht, um die Qualität und Lesbarkeit des Projekts zu gewährleisten.
